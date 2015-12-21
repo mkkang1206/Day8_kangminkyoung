@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.day8_kangminkyoung.MainActivity">
+    <item
+        android:id="@+id/load"
+        android:orderInCategory="100"
+        android:title="날씨 불러오기"
+        app:showAsAction="always" />
+</menu>
